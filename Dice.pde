@@ -80,7 +80,7 @@ int result;
       }
       //System.out.println(totalResult);
     }
-    System.out.println(totalResult);
+    //System.out.println(totalResult);
     fill(255);
     text("You got: " + totalResult, 110, 190);
   }
